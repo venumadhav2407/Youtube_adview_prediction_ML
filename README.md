@@ -3,7 +3,8 @@ To build a machine learning regression to predict youtube adview count based on 
 
 > Download the Datasets from here 👉 :
 
-<a href="https://github.com/venumadhav2407/Youtube_adview_prediction_ML/raw/f2819d334bb2ecf958bedd8f46c11d9f48ca246d/Datasets/train.csv" download>Download train.csv</a>
+<a href="https://github.com/venumadhav2407/Youtube_adview_prediction_ML/raw/f2819d334bb2ecf958bedd8f46c11d9f48ca246d/Datasets/train.csv" download> train.csv</a>
+<a href="https://github.com/venumadhav2407/Youtube_adview_prediction_ML/blob/69c430874445ffdcd7e8c732561dc8e713fb09bd/Datasets/test.csv" download> test.csv</a>
 
 
 > Attribute Information
