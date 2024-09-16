@@ -15,10 +15,7 @@ on other youtube metrics.
 > #### Models
 - Label-encoding
 - Linear Regression
-- Decision Tree Regression
 - Support Vector Regression
-- Random Forest Regression
-- Neural Network
 
 
 > #### Challenges Overcome
